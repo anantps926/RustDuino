@@ -2,5 +2,3 @@
 My RustDuino assignment answers
 
 Anant Pratap Singh 
-190125
-
